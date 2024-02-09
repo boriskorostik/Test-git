@@ -45,5 +45,6 @@
 **git branch --vv** — показывает локальные и отслеживаемые удалённые ветки  
 **git checkout <удалённая ветка>** — создаёт локальную ветку с таким же именем, как у удалённой, и начинает её отслеживать.  
 ![Gitlab logo](https://tproger.ru/signed_image/-eEzSK69scn6FFR-URkKv8L_SBbccPjPdIYegfGrP4Y/rs:fill:766:0:true/cb:vimg_2/f:webp/aHR0cHM6Ly9tZWRpYS50cHJvZ2VyLnJ1L3VwbG9hZHMvMjAxOS8wMi9icmFuY2hpbmcuanBn)
-
+**git status** - получить информацию от git о его текущем состоянии   
 ## Lesson 2
+**git branch** - выводит ветки
