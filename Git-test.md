@@ -47,6 +47,7 @@
 ![Gitlab logo](https://tproger.ru/signed_image/-eEzSK69scn6FFR-URkKv8L_SBbccPjPdIYegfGrP4Y/rs:fill:766:0:true/cb:vimg_2/f:webp/aHR0cHM6Ly9tZWRpYS50cHJvZ2VyLnJ1L3VwbG9hZHMvMjAxOS8wMi9icmFuY2hpbmcuanBn)
 **git status** - получить информацию от git о его текущем состоянии   
 ## Lesson 2
+work1 - merge error
 branch - ветка
 **git branch** - выводит ветки
 **git branch name** - создание ветки
