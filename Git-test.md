@@ -51,3 +51,5 @@ work1 - merge error
 branch - ветка
 **git branch** - выводит ветки
 **git branch name** - создание ветки
+error
+error
